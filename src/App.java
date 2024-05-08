@@ -6,6 +6,10 @@ public class App {
         Book book2 = new Book("Испанская Баллада", author2, 1969);
         book1.setYearOfPublishing(1982);
 
+        System.out.println(book1);
+        System.out.println(book2);
+
+
     }
 }
 
